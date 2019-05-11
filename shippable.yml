@@ -4,8 +4,10 @@ language: node_js
 # use this to control what branches get built.
 # http://docs.shippable.com/ci/advancedOptions/branches/
 branches:
-  only:
-    - master
+  except:
+    - dont_build_me
+#  only:
+#    - master
 
 # using pre-defined build variables
 # full list http://docs.shippable.com/ci/advancedOptions/environmentVariables/
