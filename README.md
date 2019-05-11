@@ -1,7 +1,7 @@
 
 # Continuous Integration for a Node JS application
-[![Run Status](https://api.shippable.com/projects/58e6d62aeb789d070092ee2e/badge?branch=master)](https://app.shippable.com/github/devops-recipes/basic-node)
-[![Coverage Badge](https://api.shippable.com/projects/58e6d62aeb789d070092ee2e/coverageBadge?branch=master)](https://app.shippable.com/github/devops-recipes/basic-node)
+[![Run Status](https://api.shippable.com/projects/5cd6ef7ad964990007b5d470/badge?branch=master)]()
+[![Coverage Badge](https://api.shippable.com/projects/5cd6ef7ad964990007b5d470/coverageBadge?branch=master)]()
 
 A simple Node JS application with unit tests and coverage reports using mocha
 and istanbul.
@@ -18,10 +18,10 @@ and istanbul.
 ## CI Reports on Shippable
 
 ### CI Console Output
-![CI Console Output](https://github.com/devops-recipes/basic-node/blob/master/public/resources/images/console.jpg)
+![CI Console Output](https://github.com/tchia04/basic-node/blob/master/public/resources/images/console.jpg)
 
 ### CI Test Report
-![CI Test Report](https://github.com/devops-recipes/basic-node/blob/master/public/resources/images/tests.jpg)
+![CI Test Report](https://github.com/tchia04/basic-node/blob/master/public/resources/images/tests.jpg)
 
 ### CI Coverage Report
-![CI Coverage Report](https://github.com/devops-recipes/basic-node/blob/master/public/resources/images/coverage.jpg)
+![CI Coverage Report](https://github.com/tchia04/basic-node/blob/master/public/resources/images/coverage.jpg)
